@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "479168323311",
+    "firebase_url": "https://deaf-app-4caf0.firebaseio.com",
+    "project_id": "deaf-app-4caf0",
+    "storage_bucket": "deaf-app-4caf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479168323311:android:e9ebebdfa3150e57b7451a",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479168323311-g5pvo5ecspdbit0plr1jdukn0qo15dss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvI-NU83uWamUvwvqkcD1iGttqONZeHQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479168323311-g5pvo5ecspdbit0plr1jdukn0qo15dss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
